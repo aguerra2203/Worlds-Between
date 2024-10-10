@@ -1,5 +1,10 @@
 # Worlds-Between
-A top-down, dimension hopping roguelike
+A top-down, dimension-hopping roguelike
+
+
+After getting lost in the multiverse, path your way through countless worlds to find your way home
+
+Combine items and abilities from all dimensions to create your perfect playstyle
 
 
 ![WB1](https://github.com/user-attachments/assets/47694c3b-00d8-49d9-9a77-20de53139832)
